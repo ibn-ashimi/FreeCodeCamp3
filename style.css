@@ -1,0 +1,51 @@
+html, body{
+  background-color: #a9d7d1;
+  text-align:center;
+  font-family: raleway, sans-serif;
+  mix-width: 320px;
+}
+#main{
+  border: 0px solid;
+   background-color: white;
+   padding: 15px;  
+ }
+ .input-field{
+   height:20px;
+   width: 280px;
+   padding: 5px;
+     margin: 10px;
+     border: 1px solid #c0c0c0;
+     border-radius: 2px;
+   }
+   #dropdown{
+     height: 35px;
+     width: 140px;
+     padding: 5px;
+       margin: 10px;  
+       margin-top: 15px;
+       border: 1px solid #c0c0c0;
+       border-radius: 2px;
+     }
+     .userRatings{
+       padding:5px;
+       margin: 10px;
+       }
+       textarea{
+         height:50px;
+         width:250px;
+         margin:10px;
+         padding:5px;
+         text-align: left;
+         vertical-align: middle;
+         display: inline-block;
+        }
+        #submit{
+          background-color: #59ace0;
+          border:0px solid;
+          border-raidus: 4px;
+          color: white;
+          height: 40px;
+            width: 96px;
+            margin: 10px;
+            font-size: 1em;
+          }
